@@ -1,5 +1,4 @@
 
-# Online Python - IDE, Editor, Compiler, Interpreter
 string=str(input("inter your string:"))
 integer=int(input("inter your integer:"))
 i=0

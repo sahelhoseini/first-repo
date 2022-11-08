@@ -1,5 +1,4 @@
 
-# Online Python - IDE, Editor, Compiler, Interpreter
 integer=int(input("inter your integer:"))
 i=1;cunt=0;result=0
 while i<=integer:
