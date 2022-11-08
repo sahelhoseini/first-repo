@@ -1,3 +1,3 @@
 # first-repo
 Python practice
-sahel hoseini - 3 python practice -40125041002004
+sahel hoseini - first python practice -40125041002004
